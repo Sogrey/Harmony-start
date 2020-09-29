@@ -2,7 +2,7 @@ module.exports = {
   port: "3000",
   dest: "docs",
   ga: "UA-85414008-1",
-  base: "/VuepressBlogTemplate/",
+  base: "/Harmony-start/",
   markdown: {
     externalLinks: {
       target: '_blank',
@@ -31,8 +31,8 @@ module.exports = {
     }]
   ],
   themeConfig: {
-    repo: "Sogrey/VuepressBlogTemplate",
-    docsRepo: "Sogrey/VuepressBlogTemplate",
+    repo: "Sogrey/Harmony-start",
+    docsRepo: "Sogrey/Harmony-start",
     editLinks: true,
     docsDir: 'source',
     locales: {
